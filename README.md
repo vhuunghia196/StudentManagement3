@@ -1,1 +1,1 @@
-# StudentManagement3
+# ScoreManagementSpringMVC
